@@ -1,1 +1,2 @@
-Test repository created from nothing
+Test empty repository
+updated with Buffer editor
